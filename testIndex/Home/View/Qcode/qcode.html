@@ -1,0 +1,11 @@
+<layout name="head" />
+
+<!-- __CONTROLLER__/msg -->
+	<form method='POST' action="<?php echo U('Qcode/msg'); ?>" >
+		
+		填域名生成二维码：<input type="text" name='msg'>
+		<button type='submit'>提交</button>
+	</form>
+	<img src="<?php echo $info['url']; ?>" alt="">
+</body>
+</html>

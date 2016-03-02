@@ -1,0 +1,73 @@
+<layout name="head" />
+	<style>
+		#box{
+			border:solid black 1px;
+			height:400px;
+			width:800px;
+			margin-left:200px;
+			overflow-y:auto;
+			overflow-x:hidden;
+			word-wrap:break-word;
+		}
+
+		#typein{
+			border:solid black 1px;
+			height:100px;
+			width:800px;
+			margin-top:20px;
+			margin-left:200px;
+		}
+
+		textarea{
+			width:790px;
+			height:90px;
+			resize:none;
+			margin-left:2px;
+		}
+
+		input{
+			margin-left:950px;
+			margin-top:10px;
+		}
+	</style>
+	
+	<script type="text/javascript" src="__ROOT__/testIndex/Public/js/jquery-1.8.3.min.js"></script>
+	<script>
+		$(function(){
+			$("#send").click(function(){
+				var chat=$("#con").val();
+				$("#con").val("");
+				// console.log(chat);
+
+				$.ajax({
+					type:"POST",
+					url:"http://www.wxtest.com/testIndex.php/Home/Chat/ajaxsave",
+					data:"data="+chat,
+					dataType:"text",
+					success:function(msg){
+						// console.log(msg);
+						$("#box").append("<div>"+msg+"</div>")
+						// alert(msg);
+					}
+				});
+			});
+
+			$("#clear").click(function(){
+				$("#box").html("");
+			});
+		});
+
+
+	</script>
+
+	<div id="box"></div>
+	
+	<form action="U()" method="post">
+		<div id="typein">
+			<textarea name="" id="con" cols="30" rows="10" wrap="soft"></textarea>
+		</div>
+		<input type="button" value="发送" id="send">
+		<input type="button" value="清除记录" id="clear">
+	</form>
+</body>
+</html>
