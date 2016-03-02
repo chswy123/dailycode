@@ -5,7 +5,14 @@ class ChatController extends Controller{
 	
 	public function chat(){
 
+		// echo '<pre>';
+		$ip = $_SERVER['REMOTE_ADDR'];
 
+		// $ip_arr = explode('.',$ip);
+		// print_r($ip_arr);
+		$this->assign(array(
+				'ipname' => $ip
+			));
 
 		$this->display();
 	}
