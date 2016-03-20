@@ -5,6 +5,9 @@
 	<title>首页</title>
 	<link href="__ROOT__/testIndex/Home/Common/css/button.css" rel="stylesheet" type="text/css" />
 	<style>
+		body{
+			background-color:#DBDBDB;
+		}
 		#weather{
 			/*display:none;*/
 			/*border:solid black 1px;*/
@@ -28,7 +31,7 @@
 	<script>
 		$(function(){
 
-			$.get("http://www.wxtest.com/testIndex.php/Home/Index/ajaxtime",function(data){
+			$.get("http://www.dailycode.com/testIndex.php/Home/Index/ajaxtime",function(data){
 				$("#time").html(data);                                                         //初始时间
 			});
 
@@ -50,7 +53,7 @@
 		function ajaxtime(){
 					$.ajax({
 					type:"GET",
-					url:"http://www.wxtest.com/testIndex.php/Home/Index/ajaxtime",
+					url:"http://www.dailycode.com/testIndex.php/Home/Index/ajaxtime",
 					dataType:"html",
 					success:function(msg){
 						$("#time").html(msg);
@@ -64,10 +67,13 @@
 	</script>
 </head>
 <body>
-	<h3>Hi~ o(*￣▽￣*)ブ</h3>
+	<br/><br/><br/>
+	<span>Hi~ o(*￣▽￣*)ブ</span><br/>
+		<input type="button" class="btn4" style="width:80px;" onclick="location='<?php echo U('Login/logout'); ?>'" value="注销"> 
 	<div id="weather" >
 		天气
 	</div>
+
 
 	<div id="block">
 		城市：<?php echo $info['retData']['city']; ?><br/>
@@ -91,8 +97,12 @@
 	<div id="time"></div>
 	<input type="button" class="btn4" onclick="location='<?php echo U('News/news'); ?>'" value="新闻"> 
 	<input type="button" class="btn4" onclick="location='<?php echo U('Qcode/qcode'); ?>'" value="二维码生成">
-	<input type="button" class="btn4" onclick="location='<?php echo U('Train/train'); ?>'" value="火车列次查询">
-	<input type="button" class="btn4" onclick="location='<?php echo U('Chat/chat'); ?>'" value="聊天">
+	<input type="button" class="btn4" onclick="location='<?php echo U('Train/train'); ?>'" value="火车列次查询"><br/><br/>
+	<input type="button" class="btn4" onclick="location='<?php echo U('Test/testindex'); ?>'" value="测试"> <br/><br/>
+	<input type="button" class="btn4" onclick="location='<?php echo U('Option/option'); ?>'" value="系统管理"> 
+
+
+	<!-- <input type="button" class="btn4" onclick="location='<?php echo U('Chat/chat'); ?>'" value="聊天"> -->
 	<!-- <input type="button" value="Submit" class="btn4" /> -->
 </body>
 </html>

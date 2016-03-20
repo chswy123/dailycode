@@ -1,7 +1,7 @@
 <?php
 namespace Home\Controller;
 use Think\Controller;
-class ChatController extends Controller{
+class ChatController extends BaseController{
 	
 	public function chat(){
 

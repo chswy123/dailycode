@@ -1,0 +1,71 @@
+[ 2016-03-16T22:17:05+08:00 ] ::1 /dailycode/testIndex.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
+[ 2016-03-16T22:17:06+08:00 ] ::1 /dailycode/testIndex.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
+[ 2016-03-16T22:17:06+08:00 ] ::1 /dailycode/testIndex.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
+[ 2016-03-16T22:17:15+08:00 ] ::1 /dailycode/testIndex.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
+[ 2016-03-16T22:17:19+08:00 ] ::1 /dailycode/testIndex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
+[ 2016-03-16T22:17:20+08:00 ] ::1 /dailycode/testIndex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
+[ 2016-03-16T22:19:52+08:00 ] ::1 /dailycode/testIndex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+
+[ 2016-03-16T22:19:55+08:00 ] ::1 /dailycode/testIndex.php/Home/News/news.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+
+[ 2016-03-16T22:20:06+08:00 ] ::1 /dailycode/testIndex.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+
+[ 2016-03-16T22:20:12+08:00 ] ::1 /dailycode/testIndex.php/Home/Qcode/qcode.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+
+[ 2016-03-16T22:20:14+08:00 ] ::1 /dailycode/testIndex.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+
+[ 2016-03-16T22:20:16+08:00 ] ::1 /dailycode/testIndex.php/Home/Train/train.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+
+[ 2016-03-16T22:20:51+08:00 ] ::1 /dailycode/testIndex.php/Home/Train/chaxun.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+

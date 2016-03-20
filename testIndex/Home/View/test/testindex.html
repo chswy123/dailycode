@@ -1,0 +1,29 @@
+<layout name="head" />
+<style>
+	#testtable{
+		border:solid 1px black; 
+		width:500px;
+	}
+</style>
+<!-- hellow! -->
+
+<table id="testtable" >
+		<tr>
+			<th>id</th>
+			<th>姓名</th>
+			<th>性别</th>
+			<th>年龄</th>
+			<th>爱好</th>
+			<th>地址</th>
+		</tr>
+	<?php foreach($info as $v){ ?>
+		<tr>
+			<td><?php echo $v['id']; ?></td>
+			<td><?php echo $v['user_name']; ?></td>
+			<td><?php echo $v['sex']==1?'男':'女'; ?></td>
+			<td><?php echo $v['age']; ?></td>
+			<td><?php echo $v['habbit']; ?></td>
+			<td><?php echo $v['adress']; ?></td>
+		</tr>
+	<?php } ?>
+</table>

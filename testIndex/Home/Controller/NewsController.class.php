@@ -1,7 +1,7 @@
 <?php 
 namespace Home\Controller;
 use Think\Controller;
-class NewsController extends Controller{
+class NewsController extends BaseController{
 
 	public function news(){
     	$ch = curl_init();

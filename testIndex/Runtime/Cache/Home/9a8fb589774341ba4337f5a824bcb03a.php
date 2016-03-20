@@ -4,10 +4,10 @@
 	<meta charset="UTF-8">
 	<title>首页</title>
 
-	<link rel="stylesheet" type="text/css" href="/testIndex/Home/Common/jqdate/tcal.css" />
+	<link rel="stylesheet" type="text/css" href="/dailycode/testIndex/Home/Common/jqdate/tcal.css" />
 	
-	<script type="text/javascript" src="/testIndex/Home/Common/jqdate/tcal.js"></script> 
-	<script type="text/javascript" src="/testIndex/Public/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="/dailycode/testIndex/Home/Common/jqdate/tcal.js"></script> 
+	<script type="text/javascript" src="/dailycode/testIndex/Public/js/jquery-1.8.3.min.js"></script>
 	<script>
 	// $("#click").click(function($this()));
 	// $("#click").click("documentwrite('123')");

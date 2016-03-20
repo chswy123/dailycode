@@ -17,11 +17,12 @@
 <body>
 	
 	<a href="<?php echo U('Index/index'); ?>">首页</a>
+	<a href="<?php echo U('Login/logout'); ?>">退出</a>
 	<br/>
 
 
+<link href="/testIndex/Home/Common/css/button.css" rel="stylesheet" type="text/css" />
 
-	<img src="<?php echo $net['url']; ?>" alt="">
-	<div>域名：<?php echo $info['msg'];?></div>
+<body>
+<input type="button" class="btn4" onclick="location='<?php echo U('Test/testindex'); ?>'" value="权限管理"> 
 </body>
-</html>

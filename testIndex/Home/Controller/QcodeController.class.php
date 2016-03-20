@@ -1,7 +1,7 @@
 <?php
 namespace Home\Controller;
 use Think\Controller;
-class QcodeController extends Controller{
+class QcodeController extends BaseController{
 
 	public function msg(){
     	if(IS_POST){	

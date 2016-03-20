@@ -80,7 +80,7 @@
 
 
 	</script>
-
+	<div>游客你好：<?php echo $ipname; ?></div>
 	<div id="box"></div>
 	
 	<form action="U()" method="post">

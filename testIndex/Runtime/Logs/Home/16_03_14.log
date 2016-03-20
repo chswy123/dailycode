@@ -1,0 +1,48 @@
+[ 2016-03-14T17:10:42+08:00 ] ::1 /dailycode/testIndex.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
+[ 2016-03-14T22:40:45+08:00 ] ::1 /dailycode/testIndex.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
+[ 2016-03-14T22:40:46+08:00 ] ::1 /dailycode/testIndex.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
+[ 2016-03-14T22:40:53+08:00 ] ::1 /dailycode/testIndex.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000164s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
+[ 2016-03-14T22:41:02+08:00 ] ::1 /dailycode/testIndex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
+[ 2016-03-14T22:41:03+08:00 ] ::1 /dailycode/testIndex.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
+[ 2016-03-14T22:42:05+08:00 ] ::1 /dailycode/testIndex.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
+[ 2016-03-14T22:42:06+08:00 ] ::1 /dailycode/testIndex.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+ERR: _STORAGE_WRITE_ERROR_:testIndex/Runtime/Cache/Home/7103817b66bb8f654a7052d128be056e.php
+
