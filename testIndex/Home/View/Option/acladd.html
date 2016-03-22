@@ -1,0 +1,19 @@
+<layout name="head" />
+<body>
+	<h1>添加权限</h1>
+	<form action="<?php echo U('Option/acladd'); ?>" method="post">
+		选择上级权限：
+		<select name="" id="">
+			<option value="0">顶级权限</option>
+
+			<option value=""></option>
+
+		</select>
+		<br/>
+		权限名称：<input type="text" name="acl_name"><br/><br/>
+		模块：<input type="text" name="moudle"><br/><br/>
+		控制器：<input type="text" name="controller"><br/><br/>
+		方法：<input type="text" name="action"><br/>
+		<input type="submit" value="提交">
+	</form>
+</body>
