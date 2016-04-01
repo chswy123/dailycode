@@ -1,0 +1,25 @@
+[ 2016-03-08T10:57:10+08:00 ] 140.207.54.77 /Mywechat.php/Home/Index/index?signature=c16b1a0e1bacb0181c247735e04994513817c47a&timestamp=1457405829&nonce=776847453&encrypt_type=aes&msg_signature=119c083da3232760853ec906264805604faf4854
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+
+[ 2016-03-08T10:57:14+08:00 ] 140.207.54.77 /Mywechat.php/Home/Index/index?signature=4bfc16b4888fde4d5ea43f0adc98a608822f41a3&timestamp=1457405834&nonce=1821463499&encrypt_type=aes&msg_signature=41514708ecab5c735192101577ac232a29493c9a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-03-08T10:57:21+08:00 ] 140.207.54.77 /Mywechat.php/Home/Index/index?signature=7f5d25fcec2491f312c8d6cb81560a3bf673fd66&timestamp=1457405841&nonce=1741527345&encrypt_type=aes&msg_signature=6e757ddf448aa41893f994e4633840da2c908542
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-03-08T10:57:26+08:00 ] 140.207.54.77 /Mywechat.php/Home/Index/index?signature=94916b5f9b3581535243864130dc823411755b6c&timestamp=1457405846&nonce=929281344&encrypt_type=aes&msg_signature=b25046b6a346f6211ec2d622f5e7777c767dac52
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+
+[ 2016-03-08T10:57:29+08:00 ] 140.207.54.77 /Mywechat.php/Home/Index/index?signature=1aaf66a27cf6a6ab95f558d0e95e85325029ad8b&timestamp=1457405849&nonce=657894970&encrypt_type=aes&msg_signature=17ac9857d843c552e1646c6bc12e0416697d918c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+

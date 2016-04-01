@@ -1,0 +1,552 @@
+[ 2016-03-26T16:31:26+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=dd1dfbbe9729f1d1506b28a2f98c22ceb56d5cdb&timestamp=1458981085&nonce=794076602&encrypt_type=aes&msg_signature=a6f2b0502eba84db24a27080703352f6bea5ba97
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+
+[ 2016-03-26T16:31:36+08:00 ] 58.247.206.140 /Mywechat.php/Home/Index/index?signature=30fd3fff9d735b7317e50de25ceec15618d83f77&timestamp=1458981096&nonce=394110922&encrypt_type=aes&msg_signature=20e4a48c29c9b84e35e1de62affc55cb478db07d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2016-03-26T16:31:40+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=a69ad95dacdeb29dcf02a0c70ee1a6320ff17c58&timestamp=1458981100&nonce=885778166&encrypt_type=aes&msg_signature=dc5b267756e95dd1db009eb9d84aec85c872fc01
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2016-03-26T16:31:59+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=45f86770ae03520e37f59a6a055fc28518db39e9&timestamp=1458981119&nonce=849181106&encrypt_type=aes&msg_signature=ec936c2879697adfe0d473369e6ac09f6423f3ee
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2016-03-26T16:32:09+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=6a826277895e7aa59dd46aee024c5267d6977856&timestamp=1458981129&nonce=1099805296&encrypt_type=aes&msg_signature=c00831c63ab8086304beb9e49fa875c191c2f1ef
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-03-26T16:32:11+08:00 ] 180.153.206.16 /Mywechat.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-03-26T16:32:12+08:00 ] 180.153.206.13 /Mywechat.php/Home/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2016-03-26T16:32:42+08:00 ] 58.247.206.144 /Mywechat.php/Home/Index/index?signature=1b64ac70faacb2074acccf45c81d39c55718e7f9&timestamp=1458981162&nonce=1386729173&encrypt_type=aes&msg_signature=045b769492edd868442de9e8d7e14c2ded34971d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2016-03-26T16:32:45+08:00 ] 58.247.206.140 /Mywechat.php/Home/Index/index?signature=1c4d16f32cbc131e74bc03d6bd2f52fc157b8219&timestamp=1458981165&nonce=2011159389&encrypt_type=aes&msg_signature=9a6208ffc20a8cacf0060abc3409ed79a67f7877
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2016-03-26T16:32:48+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=16c3305e288d0d9a129d5d164827eed59ce8d1a9&timestamp=1458981168&nonce=687831472&encrypt_type=aes&msg_signature=3e6938d842bea3fb67f14fb099914214e530d12b
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-03-26T16:32:51+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=e4a6d5b67d1804f5a35c77d3e8eb32c531a068d4&timestamp=1458981171&nonce=713705545&encrypt_type=aes&msg_signature=427d27236f4f9c41838dd49ccb0f7675837311ba
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-03-26T16:32:58+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=00f5f884cd26a38a69cdca55a904624c273e4d3d&timestamp=1458981178&nonce=1955727901&encrypt_type=aes&msg_signature=9f45aae8a60dbd0cc929f38de76346809396174a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-03-26T16:33:05+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=269975f785a30977ead69ef6046c63f34bd8bc47&timestamp=1458981185&nonce=1526052944&encrypt_type=aes&msg_signature=bc01cf70a3f0085b7ed18c664ee91d070e9d8e05
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-03-26T16:33:20+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=7724fbeac0b716df42b05fea6210b6a3f39599c5&timestamp=1458981199&nonce=1719248343&encrypt_type=aes&msg_signature=83075459f92244991264c0f57aec95ee7dd16672
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-03-26T16:33:25+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=b822bc2669f4867f2495967373e3dfd1b96b7437&timestamp=1458981205&nonce=28759466&encrypt_type=aes&msg_signature=bf0b869ad2ababd2e5ca0098992c6acbd4c79ad1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2016-03-26T16:33:29+08:00 ] 58.247.206.140 /Mywechat.php/Home/Index/index?signature=11e0c28e241b265cb68750c4c40d3c32b06aa141&timestamp=1458981209&nonce=76769967&encrypt_type=aes&msg_signature=11366cecc7eb739dba37baf797dbf9b1824d37d1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2016-03-26T16:33:32+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=daf57aee8e6ade173c36142c07e8897673bd83c0&timestamp=1458981212&nonce=2045694683&encrypt_type=aes&msg_signature=2a25b16ef5343f6c4e3b119d6bdff93dc14fff2c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-03-26T16:33:36+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=24e8d0490a62379d2dc7734351e5a223086168b4&timestamp=1458981216&nonce=1325520935&encrypt_type=aes&msg_signature=3d7b6e62d67e18a31de25c396b3f771760a095fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2016-03-26T16:33:43+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=6fda67cd141ae8e5e73773301d891ca7559e669a&timestamp=1458981223&nonce=754961582&encrypt_type=aes&msg_signature=58904312e43d967a142e6d4efcee0f684ff076ba
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-03-26T16:33:50+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=80cbed56f9f87f7136ba2fe9d1e5a8b73fc21a35&timestamp=1458981230&nonce=504238719&encrypt_type=aes&msg_signature=37f1a4c7204af7c49d2bb7d0c9c5fc1a96cdda47
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-03-26T16:33:53+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=b5d7235f5fd18e50282950e25e88770fdce0b354&timestamp=1458981233&nonce=2146756769&encrypt_type=aes&msg_signature=2e503b9d16ed6889e403fdad94f19974e0d62e4d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2016-03-26T16:34:47+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=545986dfb92ac25fe15f3c665f5bee4794a3b422&timestamp=1458981287&nonce=343694934&encrypt_type=aes&msg_signature=877950f99c90888f8023aa96998f212ffd084a4a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-03-26T16:35:05+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=c43ea557f8a5c921650a4e052e1ecad4f843b4a8&timestamp=1458981305&nonce=1830254931&encrypt_type=aes&msg_signature=725164b6dd68a3e6198756ea08afad5feb35b8e4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2016-03-26T16:35:13+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=87257f796f6e21cae443feb454a4f86c8b3a1f1b&timestamp=1458981313&nonce=212677815&encrypt_type=aes&msg_signature=3d58e7e923542e8ee5514c134efff5b062d2e444
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+
+[ 2016-03-26T16:35:16+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=f5c234b7a4a8ccded4663131d8e77532b06603cc&timestamp=1458981316&nonce=332377337&encrypt_type=aes&msg_signature=636cfbb26659abe4e44dffae1afc56b1af724e33
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-03-26T16:35:20+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=6e2791c65b059e335bdea5304415cdb42b0d3e05&timestamp=1458981320&nonce=1051619994&encrypt_type=aes&msg_signature=8c0660a8d3b03029fb7faa55bd3eb8de3064309d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2016-03-26T16:35:36+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=5be0f271e71f4552649a8e3329e2f7b240e40e21&timestamp=1458981336&nonce=131968334&encrypt_type=aes&msg_signature=c57d78f59098ac74624a503ccdd7861f5351214a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2016-03-26T19:41:06+08:00 ] 58.247.206.140 /Mywechat.php/Home/Index/index?signature=09012e9382b5c7e3fc1a975296eeff88a2329717&timestamp=1458992466&nonce=1755000445&encrypt_type=aes&msg_signature=1db9dd371709ba4a6123a61938210410c0ac9af7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-03-26T19:41:08+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=fbfc1446d173e9049d6b1ac5b53eb06cb474903f&timestamp=1458992468&nonce=1552495123&encrypt_type=aes&msg_signature=7f1d3f9f837df5a3bb823378f5c76022789e0c16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+
+[ 2016-03-26T19:42:17+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=e6502cbf39bf1050c360c6c01f91b329ac5f0507&timestamp=1458992537&nonce=1938803051&encrypt_type=aes&msg_signature=00aec6db3d57b7ef22f70c49840c45f37d1d1edd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2016-03-26T19:42:26+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=04f229e99c086c1ce20a3584f0de36a00b462fa0&timestamp=1458992546&nonce=1732496381&encrypt_type=aes&msg_signature=1814139003686ea16fdb61b635214856a3dbfdf2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-03-26T19:43:56+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=969d77a27bd36e3b75793e508a432e9a6aa355d7&timestamp=1458992636&nonce=923368336&encrypt_type=aes&msg_signature=fb57111a16dfe730186bcd580845313da8dcc782
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-03-26T19:45:14+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=9b166114ddbb08170131543bf173396e08e342f7&timestamp=1458992714&nonce=925618843&encrypt_type=aes&msg_signature=c43f3967fe4ce6118694697fc43906f536971b6e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2016-03-26T19:45:30+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=c0b3b63a419b7a8cc0c5a2e93b013f3863d6b06b&timestamp=1458992730&nonce=1629960338&encrypt_type=aes&msg_signature=49974a960e12c93189f6cf8a1d8dce65561de4e3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-03-26T19:46:14+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=152e42f88e9c2425cbbc12aa5d48d34ae061cad7&timestamp=1458992774&nonce=1484164816&encrypt_type=aes&msg_signature=88f8c50249be62015a454793a3cf5557bf1ee07a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000673s ]
+
+[ 2016-03-26T19:47:08+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=b53f43cd695b2eb7ba73ffdee63541feed8c7d5e&timestamp=1458992828&nonce=1490277020&encrypt_type=aes&msg_signature=219afce25a1dace773061d82263c82d5119c1ba5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-03-26T19:47:13+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=c4bc0b79358a9e3361345da2a934bdbebbfdab44&timestamp=1458992833&nonce=889538812&encrypt_type=aes&msg_signature=85b56258a19f97cabe3f225830e7e08738224688
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-03-26T19:47:19+08:00 ] 58.247.206.140 /Mywechat.php/Home/Index/index?signature=846d38b31a50b688843d4f9e81a6accb8f06337e&timestamp=1458992839&nonce=845375558&encrypt_type=aes&msg_signature=2b8b4b3fc47a3b868c088b83bfea4d46b443cff3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2016-03-26T19:47:23+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=9c3090b1e7cd62bb2c3afd5dca03fb0452791cec&timestamp=1458992843&nonce=679504924&encrypt_type=aes&msg_signature=7209794542a238c86b4f15055553be739ea3b3d5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-03-26T19:47:26+08:00 ] 58.247.206.140 /Mywechat.php/Home/Index/index?signature=431492cf2211fe0167db9ce77a08b396173170c6&timestamp=1458992845&nonce=306691656&encrypt_type=aes&msg_signature=6d5996ece7da759ca958159373023829f0bcb415
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-03-26T19:47:28+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=69b890e0dcdf546793817b7e55ad57b922080f06&timestamp=1458992848&nonce=1868954735&encrypt_type=aes&msg_signature=801a4189f498a3d508652bfa48f02679be828f46
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-03-26T19:47:50+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=93567fd2e383a43599692ec2995e96229cc7ae99&timestamp=1458992870&nonce=936053864&encrypt_type=aes&msg_signature=baf8f15e93c0edc539006a6b2f91d25b806aec74
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+
+[ 2016-03-26T19:52:43+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=bd021db2340cfbcd5de89dee8f80d440d10abb3e&timestamp=1458993163&nonce=81377253&encrypt_type=aes&msg_signature=cfee7dfc059ba185f4e3a34d7aad49ded3f58055
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+
+[ 2016-03-26T19:52:49+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=c1ddcac1eaf815c2e495d28ede9777f821ff2d6c&timestamp=1458993168&nonce=1758881606&encrypt_type=aes&msg_signature=49a28d9b0461591e1e3ceac7d7ed9a2021ff71f9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2016-03-26T19:52:54+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=77a0d96244e96eb07dad927d25d0398d1cf55b51&timestamp=1458993174&nonce=246760080&encrypt_type=aes&msg_signature=2ff95e4d926e998824b52a83f6ea56f27ca88a45
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+
+[ 2016-03-26T19:52:57+08:00 ] 58.247.206.146 /Mywechat.php/Home/Index/index?signature=14d66ce1925c53799f0712623fd549e685ec5c3d&timestamp=1458993176&nonce=1726781880&encrypt_type=aes&msg_signature=193b242ddd6779bb74b978ceef6296c09f37e315
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-03-26T19:53:00+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=edf88d98913a5c946d4341d3e63660a661cffeab&timestamp=1458993180&nonce=260779906&encrypt_type=aes&msg_signature=17625f0acb5cd93589416a28701a443f801abc17
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2016-03-26T19:53:06+08:00 ] 58.247.206.152 /Mywechat.php/Home/Index/index?signature=2910239b9f0cbd079bc1fc3259e2253def1aed6d&timestamp=1458993186&nonce=168199334&encrypt_type=aes&msg_signature=c7f872846a49857436b8191e610daf2ef15a999d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-03-26T20:30:08+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=30789d3fb5509967b43254d6ef71c08067891b4b&timestamp=1458995408&nonce=126786829&encrypt_type=aes&msg_signature=92ae1798a87418e8d21aecac009473f25942ceab
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2016-03-26T20:30:15+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=21639b67c7a737de024a502d291ec62a4d4e14e0&timestamp=1458995415&nonce=1868361784&encrypt_type=aes&msg_signature=454037166bdb9dbbcbd1b0b2643af24a0a091972
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-03-26T20:56:43+08:00 ] 58.247.206.144 /Mywechat.php/Home/Index/index?signature=8e668622b0729a4c0e08fe9c379a33bf8c051957&timestamp=1458997003&nonce=1125313026&encrypt_type=aes&msg_signature=d223fd3167d77016c8fb9fa32c91618220b625d6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'qdm108294313_db.wx_index' doesn't exist
+
+[ 2016-03-26T20:56:54+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=53cba47ec71869f0d6bf3c195f4362d8af45df99&timestamp=1458997014&nonce=1724763539&encrypt_type=aes&msg_signature=23f60f534482a62659dcb3568c7b7c3966753abc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'qdm108294313_db.wx_index' doesn't exist
+
+[ 2016-03-26T20:57:27+08:00 ] 58.247.206.140 /Mywechat.php/Home/Index/index?signature=9b5826dc8c0a0b68b307faf24df6b08be5ee1eec&timestamp=1458997047&nonce=343991544&encrypt_type=aes&msg_signature=fcace54c136c5b5759f6d94e48464ea33420c926
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'qdm108294313_db.wx_index' doesn't exist
+
+[ 2016-03-26T20:58:24+08:00 ] 58.247.206.140 /Mywechat.php/Home/Index/index?signature=7b2f13c6aeb87cbffde234336a74ea30578ab878&timestamp=1458997104&nonce=1997749965&encrypt_type=aes&msg_signature=76e06b0ad36008c203388bba5fca1c868cd724c6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'qdm108294313_db.wx_index' doesn't exist
+
+[ 2016-03-26T20:58:27+08:00 ] 58.247.206.140 /Mywechat.php/Home/Index/index?signature=afa93e0e323969caba9a61d6f97b714f7fc5ba66&timestamp=1458997107&nonce=213542881&encrypt_type=aes&msg_signature=71f87a99881e35eec9ade860857c8a3ffbdd420c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'qdm108294313_db.wx_index' doesn't exist
+
+[ 2016-03-26T20:59:20+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=6e8057a1141233a803a4a98764468fbe8d4f5e85&timestamp=1458997160&nonce=892906975&encrypt_type=aes&msg_signature=210225a7b4ae3e32bdb877b0c94852f0ba7d2c81
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+
+[ 2016-03-26T20:59:50+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=a03ea44251cbd93b6d58ae1b720229522a7097bb&timestamp=1458997190&nonce=1340906191&encrypt_type=aes&msg_signature=db5b63a24d34bd55d51edeb881683edfefe8c010
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'qdm108294313_db.wx_index' doesn't exist
+
+[ 2016-03-26T21:01:57+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=442fe7ea6f8426ca283a49fd8d6477b8774c5172&timestamp=1458997317&nonce=1668537050&encrypt_type=aes&msg_signature=b179cbc9c42ac03ecf4a84ad8c1a5e60726c9bc9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'qdm108294313_db.wx_index' doesn't exist
+
+[ 2016-03-26T21:02:00+08:00 ] 58.247.206.139 /Mywechat.php/Home/Index/index?signature=c5629ffb633fae9ab657f4ad08842e3c06f50009&timestamp=1458997320&nonce=2045970074&encrypt_type=aes&msg_signature=51096466fa899f2fab95925dc949f011637ec307
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'qdm108294313_db.wx_index' doesn't exist
+
+[ 2016-03-26T21:02:16+08:00 ] 58.247.206.148 /Mywechat.php/Home/Index/index?signature=c9bf21864775ed2694f6df4ebd2f8934595ed4a6&timestamp=1458997336&nonce=604376052&encrypt_type=aes&msg_signature=5c4b40b2914693e49f57bab1947d4b5965a1a5c1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'qdm108294313_db.wx_index' doesn't exist
+
+[ 2016-03-26T21:07:22+08:00 ] 58.247.206.140 /Mywechat.php/Home/Index/index?signature=bfc4111a0137384917b372b23f2291cc6de8030a&timestamp=1458997642&nonce=1110115825&encrypt_type=aes&msg_signature=1733fb7bb84bbcf99fd6aebf79d06286eb81261a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'qdm108294313_db.wx_index' doesn't exist
+
+[ 2016-03-26T21:12:26+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=b6458218c92ac7fe9459ebb56f341f76b190cc6a&timestamp=1458997946&nonce=709701346&encrypt_type=aes&msg_signature=32f7885c54493e2f119b7108a0448c413c735692
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000712s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `wx_index` [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000860s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2016-03-26T21:12:32+08:00 ] 58.247.206.144 /Mywechat.php/Home/Index/index?signature=50f38cc01165cb18a8ef7238303367c412e823ad&timestamp=1458997951&nonce=2032985996&encrypt_type=aes&msg_signature=f561ca1ede71e0e7cc66af3d8eacdebe07c5a660
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined offset: 2 /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 53 行.
+NOTIC: [8] Undefined offset: 2 /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 56 行.
+NOTIC: [8] Undefined offset: 2 /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 59 行.
+NOTIC: [8] Undefined offset: 2 /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 62 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000754s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000854s ]
+
+[ 2016-03-26T21:12:45+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=94f9771408c1a050eb537f9c2a23b2f50e6bb953&timestamp=1458997965&nonce=1869241973&encrypt_type=aes&msg_signature=19b4d8fecd6b41df754feaeef3a290cac1b14244
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-03-26T21:13:40+08:00 ] 58.247.206.140 /Mywechat.php/Home/Index/index?signature=24d21ac20c30132131df8518a57f99025105e0e8&timestamp=1458998020&nonce=220792743&encrypt_type=aes&msg_signature=ca1d8278fcf77cf8827a19eed7f0eafc117befc4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `wx_news` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `wx_news` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001036s ]
+
+[ 2016-03-26T21:13:47+08:00 ] 58.247.206.143 /Mywechat.php/Home/Index/index?signature=c82003c309b11d4b76be633c04c7268562569481&timestamp=1458998027&nonce=388143663&encrypt_type=aes&msg_signature=e4531074ae2cc53684f999c908bc927f878b95c8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+SQL: SELECT * FROM `wx_news` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: desc /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 45 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000667s ]
+
+[ 2016-03-26T21:13:56+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=7daf9ae50eec9fba6316bd8e182b473dd5279137&timestamp=1458998036&nonce=1107133921&encrypt_type=aes&msg_signature=5d71798b799446177e67ca77181649519d16ae86
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+SQL: SELECT * FROM `wx_news` LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-03-26T21:17:21+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=21fcaed575e316da75158d3fd646760e24520b0d&timestamp=1458998241&nonce=1525534360&encrypt_type=aes&msg_signature=0af4c9c17cd4b1ad742ed47b3962b9c58c8da5be
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+SQL: SELECT * FROM `wx_news` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] file_put_contents(http://www.v24php.cn/error_log): failed to open stream: HTTP wrapper does not support writeable connections /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000735s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2016-03-26T21:19:48+08:00 ] 58.247.206.154 /Mywechat.php/Home/Index/index?signature=d6251a0a8673bb7e0c64cee89c5cc315036aada7&timestamp=1458998388&nonce=2011310367&encrypt_type=aes&msg_signature=395ea1050e2e913cf4f489c338b5d1c8cd8c8ddb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+SQL: SELECT * FROM `wx_news` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] file_put_contents(http://www.v24php.cn/error_log): failed to open stream: HTTP wrapper does not support writeable connections /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 31 行.
+NOTIC: [8] Undefined index: desc /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000848s ]
+
+[ 2016-03-26T21:22:41+08:00 ] 58.247.206.140 /Mywechat.php/Home/Index/index?signature=0cf1c0ee19dad5b6d84c079cee7531a4293c6771&timestamp=1458998561&nonce=307577822&encrypt_type=aes&msg_signature=a8f5c5c717becac4523cc07c406a2cfef61a340c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [2] file_put_contents(http://www.v24php.cn/error_log): failed to open stream: HTTP wrapper does not support writeable connections /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 31 行.
+NOTIC: [8] Undefined variable: mysqldata /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-03-26T22:30:07+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=2e4d38984436448df13b1e40e7b59f89eed1c0d9&timestamp=1459002607&nonce=1843362406&encrypt_type=aes&msg_signature=ff3bc3ca837de107cf38350de0176c2e2ce77746
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [2] file_put_contents(http://www.v24php.cn/error_log): failed to open stream: HTTP wrapper does not support writeable connections /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 31 行.
+NOTIC: [8] Undefined variable: mysqldata /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-03-26T22:32:04+08:00 ] 58.247.206.145 /Mywechat.php/Home/Index/index?signature=7b5876d4dcfb82e1ab4b5300cf6acc45f6da0d87&timestamp=1459002724&nonce=14150058&encrypt_type=aes&msg_signature=47a54c560d6df0af76377827aa1f8a1ce966ee73
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [2] file_put_contents(http://www.v24php.cn/error_log): failed to open stream: HTTP wrapper does not support writeable connections /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-03-26T22:33:53+08:00 ] 58.247.206.155 /Mywechat.php/Home/Index/index?signature=9fbc5c7550865cd166270af0fa6a91aca12d6600&timestamp=1459002833&nonce=1092934289&encrypt_type=aes&msg_signature=b9829c7b4e480431c0876fa56af82ac3994ffb20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [2] file_put_contents(http://www.v24php.cn/error_log): failed to open stream: HTTP wrapper does not support writeable connections /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2016-03-26T22:34:35+08:00 ] 58.247.206.150 /Mywechat.php/Home/Index/index?signature=eb1f3c0b9852f1e4d77577d1ff2d82aff2a12834&timestamp=1459002875&nonce=105786003&encrypt_type=aes&msg_signature=940a9d81c434fe209e7e4be29d3ff42315cf202a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+NOTIC: [2] file_put_contents(http://www.v24php.cn/error_log): failed to open stream: HTTP wrapper does not support writeable connections /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 31 行.
+NOTIC: [8] Undefined variable: mysqldata /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000842s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000934s ]
+
+[ 2016-03-26T22:38:52+08:00 ] 58.247.206.140 /Mywechat.php/Home/Index/index?signature=1d87492581028d0e2d68545c0eacc4dad016bb92&timestamp=1459003132&nonce=232008821&encrypt_type=aes&msg_signature=acff0f7089f8ada5ec8f67f33aee50a9953519c0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+NOTIC: [8] Undefined index: echostr /data/home/qxu1606400219/htdocs/Mywechat/Home/Controller/IndexController.class.php 第 18 行.
+SQL: SELECT * FROM `wx_news` LIMIT 1   [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: desc /data/home/qxu1606400219/htdocs/Mywechat/Model/IndexModel.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000861s ]
+

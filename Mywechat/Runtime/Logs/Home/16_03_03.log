@@ -1,0 +1,30 @@
+[ 2016-03-03T12:03:32+08:00 ] 140.207.54.80 /Mywechat.php/Home/Index/index?signature=13254927cb1ec38196a5050e0a507ffa1d6ce32f&timestamp=1456977811&nonce=1548358837&encrypt_type=aes&msg_signature=71bb53520eb6a451c29cf4b59c8a978e9f31b017
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+
+[ 2016-03-03T12:04:54+08:00 ] 140.207.54.79 /Mywechat.php/Home/Index/index?signature=6d289cdf94ff348a4497a7cd05059369cc8e4b90&timestamp=1456977894&nonce=240635950&encrypt_type=aes&msg_signature=0b8bbe5b6e954f28a8da7368ca76464dad2729c1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-03-03T16:29:19+08:00 ] 140.207.54.77 /Mywechat.php/Home/Index/index?signature=45a2ce9b59c1fe050b76c81f58e6ad76e258f5e3&timestamp=1456993758&nonce=1544104506&encrypt_type=aes&msg_signature=46ea7143b4d613e7c46d4fde8408e19f2293de63
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-03-03T16:29:52+08:00 ] 140.207.54.77 /Mywechat.php/Home/Index/index?signature=8591d3db5da3b2a0f27429e37bf87106f8f2d28c&timestamp=1456993792&nonce=2072717256&encrypt_type=aes&msg_signature=46265cdaf3334cd027f12edd8a8d3a0a1aaef10c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-03-03T16:29:57+08:00 ] 140.207.54.77 /Mywechat.php/Home/Index/index?signature=8143fce7030034408246c0f2d1e22091f41e8763&timestamp=1456993797&nonce=1172572678&encrypt_type=aes&msg_signature=5e624643d1b698c812ace783326d1a9178eb66c5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-03-03T16:32:15+08:00 ] 140.207.54.80 /Mywechat.php/Home/Index/index?signature=148e75fdd233f98ea45c030af8881c9552c4cc11&timestamp=1456993935&nonce=1067797128&encrypt_type=aes&msg_signature=043349fee0136642da2dee7ffea07d075d62771e
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
