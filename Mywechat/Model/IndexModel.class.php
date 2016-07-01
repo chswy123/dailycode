@@ -3,16 +3,16 @@ namespace Model;
 use Think\Model;
 class IndexModel extends Model{
 
-    /*
-    *用户订阅的动作返回信息
-    */
 	 public function dingyEvent($postObj){
         //回复用户消息
         $toUser = $postObj->FromUserName;
         $fromUser = $postObj->ToUserName;
         $time = time();
         $Msgtype = 'text';
-        $Content = '哎呦！不错哦！感谢关注！输入“help”可查看帮助菜单:D';
+        $title_model = M('Title');
+        $title_info = $title_model->where('tag = 1')->find();
+        $Content = $title_info['title'];
+        // $Content = '哎呦！不错哦！感谢关注！输入“help”可查看帮助菜单:D';
         $template = '<xml>
                     <ToUserName><![CDATA[%s]]></ToUserName>
                     <FromUserName><![CDATA[%s]]></FromUserName>
@@ -26,10 +26,13 @@ class IndexModel extends Model{
     }
 
 
-    /*
-    *   被动回复用户信息
-    */
+    //用户回复
 	public function repostMsg($postObj){
+
+        // $data = M('News');
+        // $mysqldata = $data -> limit(1) -> select();
+        // file_put_contents('http://www.v24php.cn/error_log',$data,FILE_APPEND);
+
 
 		$toUser = $postObj->FromUserName;
         $fromUser = $postObj->ToUserName;
@@ -47,7 +50,12 @@ class IndexModel extends Model{
         //     $Content = $mysqldata[0]['desc'];
         //     break;
         case 'testweb':
-            $Content = '点我链接进入测试首页：http://www.v24php.cn/testIndex.php';
+            $web_model = M('Web');
+            $web_info = $web_model->where('tag = 1')->find();
+            // $res = json_encode($web_model);
+            // $Content = $res;
+            $Content = $web_info['text'].$web_info['link'];  //模式为下面↓↓↓↓↓↓
+            // $Content = '点我链接进入测试首页：http://www.v24php.cn/testIndex.php';
             break;
         case $res = $postObj->Content:
             $pipei = '/(\d+)(\+|-|\*|\/)(\d+)/';   //利用正则表达式将数字和负号拆分成数组
@@ -76,7 +84,6 @@ class IndexModel extends Model{
         //$city = $postObj->Content;
         //$Content=$this->testMsg($city);
 
-        // 此处判断是否是返回图文消息
         if($postObj->Content == 'news'){
             $info = $this -> news($toUser,$fromUser,$time);
             echo $info;
@@ -99,13 +106,11 @@ class IndexModel extends Model{
 
 
     /*
-     *   回复新闻(图文)的请求 
+     *   回复新闻请求 
     */
     public function news($toUser,$fromUser,$time){
         $Msgtype = 'news';
         // $Artcount = 2;
-
-        //拆分模版
         $templateHeader = '<xml>
                                 <ToUserName><![CDATA[%s]]></ToUserName>
                                 <FromUserName><![CDATA[%s]]></FromUserName>
@@ -125,7 +130,6 @@ class IndexModel extends Model{
         $templateFoot = '   </Articles>
                             </xml>';
 
-        //从数据库取数                     
         $model = M('News');
         $news_arr = $model -> limit(10) -> select();
 
@@ -139,7 +143,6 @@ class IndexModel extends Model{
         $headerStr = sprintf($templateHeader,$toUser,$fromUser,$time,$Msgtype,$Artcount);
         $footStr = sprintf($templateFoot);
 
-        //拼接头、中、尾三部分的模板返回
         return $headerStr.$bodyStr.$footStr;    
     }
 
