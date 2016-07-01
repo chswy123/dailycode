@@ -1,0 +1,6 @@
+[ 2016-06-02T00:11:22+08:00 ] 127.0.0.1 /admin/basic-table/do-working?workId=&key=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+ERR: 无法加载模块:Admin
+

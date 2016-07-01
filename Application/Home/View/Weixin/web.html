@@ -1,0 +1,57 @@
+<layout name="layout" />
+
+<style>
+    #tab{
+        width:700px;
+        font-size:15px;
+        color:#778899;
+        margin:20px auto;
+        border:2px solid #778899;
+        /*border-collapse: collapse;*/
+    }
+    .thead{
+        border:2px solid #778899;
+        text-align:center;
+    }
+    #addnew{
+        margin:20px 500px 0px 800px;
+        width:50px;
+    }
+</style>
+    
+    <div class="rightcon">
+    	<div class="right_con">
+            <div id="addnew">
+                 <a href="<?php echo U('Weixin/addweb');?>">新增</a>
+            </div>
+        	<table id="tab">
+                <tr>
+                    <th class="thead">链接前提示信息</th>
+                    <th class="thead">链接</th>
+                    <th class="thead">状态</th>
+                    <th class="thead">编辑</th>
+                </tr>  
+                <?php foreach($info as $k=>$v){?>
+                <tr bgcolor="<?php echo $v['tag']==1?'pink':'';?>">
+                    <td class="thead"><?php echo $v['text'];?></td>
+                    <td class="thead"><?php echo $v['link'];?></td>
+                    <td class="thead"><?php echo $v['tag']==1?'使用中':'未使用';?></td>
+                    <td class="thead"><a href="#" onclick="undo()">修改</a></td>
+                </tr> 
+                <?php }?>
+            </table>
+            
+        </div>
+    </div>
+</div>
+<div style="text-align:center;">
+<!-- <p>来源:<a href="http://www.mycodes.net/" target="_blank">源码之家</a></p> -->
+</div>
+
+</body>
+</html>
+<script type="text/javascript">
+	function undo(){
+        alert('开发中...敬请期待');
+    }
+</script>

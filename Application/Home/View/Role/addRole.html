@@ -1,0 +1,50 @@
+<layout name="layout" />
+
+<style>
+    #tab{
+        width:700px;
+        font-size:15px;
+        color:#778899;
+        margin:20px auto;
+        border:2px solid #778899;
+        /*border-collapse: collapse;*/
+    }
+    .thead{
+        border:2px solid #778899;
+        text-align:center;
+    }
+    #addnew{
+        margin:20px 500px 0px 800px;
+        width:50px;
+    }
+    #addinput{
+        margin:20px 500px;
+    }
+</style>
+    
+    <div class="rightcon" id="addinput">
+    	<div class="right_con">
+            <form action="<?php echo U('Role/addRole');?>" method="post">
+                角色：<input type="text" name="role"><br/><br/><br/>
+                可看菜单：<br/>
+                        <?php foreach($menu_info as $k=>$v){ ?>
+                            <span style="color:red;"><?php echo '--'.$v['menu_name'].'<br/>'; ?></span>
+                                <?php foreach($v['child'] as $kk=>$vv){?>
+                                    <?php echo '----'.$vv['menu_name'];?><input type="checkbox" name="menu[]" value="<?php echo $vv['id'];?>"><br/>
+                                <?php }?>
+                        <?php } ?>
+                <input type="submit" value="提交">
+            </form>
+            <input type="button" onclick="location.href='<?php echo U("Role/index");?>'" value="返回">
+        </div>
+    </div>
+</div>
+<div style="text-align:center;">
+<!-- <p>来源:<a href="http://www.mycodes.net/" target="_blank">源码之家</a></p> -->
+</div>
+
+</body>
+</html>
+<script type="text/javascript">
+	
+</script>

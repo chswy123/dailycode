@@ -1,0 +1,120 @@
+[ 2016-04-28T09:20:14+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /fonts.googleapis.com/css@family=Dosis_3A200,300,400,500,600,700,800
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001557s ]
+ERR: 无法加载模块:Fonts.googleapis.com
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /fonts.googleapis.com/css@family=Open+Sans_3A300italic,400italic,600italic,700italic,800italic,400,300,600,700,800
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 无法加载模块:Fonts.googleapis.com
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /fonts.googleapis.com/css@family=Raleway_3A400,100,200,300,500,600
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:Fonts.googleapis.com
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /fonts.googleapis.com/css@family=Lato_3A400,700,900
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 无法加载模块:Fonts.googleapis.com
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/misc/close-button.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007387s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/misc/body-bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006820s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/status.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/misc/arrow-right.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/misc/home-button.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/misc/menu-button.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/ui/next1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/misc/social/facebook.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/ui/prev1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/misc/social/twitter.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/misc/arrow-left.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/misc/social/google.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/misc/twitter.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/misc/googleplus.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+ERR: 无法加载模块:TestIndex
+
+[ 2016-04-28T09:20:24+08:00 ] 127.0.0.1 /testIndex/Public/images/misc/facebook.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+ERR: 无法加载模块:TestIndex
+

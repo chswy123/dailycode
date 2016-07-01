@@ -1,0 +1,49 @@
+<layout name="layout" />
+
+<style>
+    #tab{
+        width:700px;
+        font-size:15px;
+        color:#778899;
+        margin:20px auto;
+        border:2px solid #778899;
+        /*border-collapse: collapse;*/
+    }
+    .thead{
+        border:2px solid #778899;
+        text-align:center;
+    }
+    #addnew{
+        margin:20px 500px 0px 800px;
+        width:50px;
+    }
+    #addinput{
+        margin:20px 500px;
+    }
+</style>
+    
+    <div class="rightcon" id="addinput">
+    	<div class="right_con">
+            <form action="<?php echo U('User/addUser');?>" method="post">
+                用户名：<input type="text" name="user_name"><br/>
+                密码：<input type="password" name="user_pwd"><br/>
+                角色：<select name="role" id="">
+                        <?php foreach($role as $k=>$v){?>
+                            <option value="<?php echo $v['role_id'];?>"><?php echo $v['role_name'];?></option>  
+                        <?php }?> 
+                    </select><br/>
+                <input type="submit" value="提交">
+            </form>
+            <input type="button" onclick="location.href='<?php echo U("User/index");?>'" value="返回">
+        </div>
+    </div>
+</div>
+<div style="text-align:center;">
+<!-- <p>来源:<a href="http://www.mycodes.net/" target="_blank">源码之家</a></p> -->
+</div>
+
+</body>
+</html>
+<script type="text/javascript">
+	
+</script>

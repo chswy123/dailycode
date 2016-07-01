@@ -1,0 +1,30 @@
+[ 2016-03-26T16:32:12+08:00 ] 219.143.151.76 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-03-26T22:56:52+08:00 ] 219.143.151.76 /Public/wx_img/1.jpg'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+ERR: 无法加载模块:Public
+
+[ 2016-03-26T22:56:53+08:00 ] 219.143.151.76 /Public/wx_img/1.jpg'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Public
+
+[ 2016-03-26T23:04:45+08:00 ] 124.126.231.123 /Public/wx_img/1.jpg'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+ERR: 无法加载模块:Public
+
+[ 2016-03-26T23:04:46+08:00 ] 124.126.231.123 /Public/wx_img/1.jpg'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Public
+

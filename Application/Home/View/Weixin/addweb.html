@@ -1,0 +1,51 @@
+<layout name="layout" />
+
+<style>
+    #tab{
+        width:700px;
+        font-size:15px;
+        color:#778899;
+        margin:20px auto;
+        border:2px solid #778899;
+        /*border-collapse: collapse;*/
+    }
+    .thead{
+        border:2px solid #778899;
+        text-align:center;
+    }
+    #addnew{
+        margin:20px 500px 0px 800px;
+        width:50px;
+    }
+    #addinput{
+        margin:20px 500px;
+    }
+    .long{
+        width:350px;
+    }
+</style>
+    
+    <div class="rightcon" id="addinput">
+    	<div class="right_con">
+            <form action="<?php echo U('Weixin/addweb');?>" method="post">
+                链接提示：<input type="text" name="text" class="long"><br/><br/>
+                链接地址：<input type="text" name="link" class="long"><br/><br/>
+                是否使用：<select name="tag" id="">
+                            <option value="1">使用</option>
+                            <option value="0">停用</option>
+                        </select><br/>
+                <input type="submit" value="提交">
+            </form>
+            <input type="button" onclick="location.href='<?php echo U("Weixin/web");?>'" value="返回">
+        </div>
+    </div>
+</div>
+<div style="text-align:center;">
+<!-- <p>来源:<a href="http://www.mycodes.net/" target="_blank">源码之家</a></p> -->
+</div>
+
+</body>
+</html>
+<script type="text/javascript">
+	
+</script>

@@ -1,0 +1,1368 @@
+[ 2016-05-29T00:34:53+08:00 ] 127.0.0.1 /index.phpAdmin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T00:35:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T00:42:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T00:48:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T00:49:00+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T00:49:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T00:53:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T00:55:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T00:55:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T00:58:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T01:00:35+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T01:00:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T01:00:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T01:00:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+ERR: 无法加载模块:Admin
+
+[ 2016-05-29T01:27:06+08:00 ] 127.0.0.1 /Application/Public/js%22js/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:27:06+08:00 ] 127.0.0.1 /Application/Public/js%22js/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:27:06+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:27:06+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:27:06+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:27:06+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:27:06+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:27:36+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010925s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:27:36+08:00 ] 127.0.0.1 /Application/Public/js%22js/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:27:36+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002065s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:27:36+08:00 ] 127.0.0.1 /Application/Public/js%22js/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005150s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:27:36+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:28:46+08:00 ] 127.0.0.1 /Application/Public/js%22jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:28:46+08:00 ] 127.0.0.1 /Application/Public/js%22js/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001199s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:28:46+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005838s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:28:46+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:28:46+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000365s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:28:47+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.009269s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009616s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:28:47+08:00 ] 127.0.0.1 /Application/Public/js%22jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:28:47+08:00 ] 127.0.0.1 /Application/Public/js%22js/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003387s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003762s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:28:47+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:28:47+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:28:48+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:28:48+08:00 ] 127.0.0.1 /Application/Public/js%22js/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009390s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:28:48+08:00 ] 127.0.0.1 /Application/Public/js%22jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:28:48+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004787s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:28:48+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:28:55+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000821s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001149s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:28:55+08:00 ] 127.0.0.1 /Application/Public/js%22index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:28:55+08:00 ] 127.0.0.1 /Application/Public/js%22jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:28:55+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:28:55+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:04+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003594s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:04+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:04+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005049s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:04+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:04+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:04+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:05+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002700s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:05+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:05+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:05+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:05+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:05+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008457s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:05+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:05+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003881s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:05+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:05+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:05+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:06+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009891s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:06+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:06+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:06+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000541s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001134s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:06+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:06+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002219s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:07+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008920s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:07+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:07+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:07+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001020s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:07+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:34+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:34+08:00 ] 127.0.0.1 /Application/Public/images%22images/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:34+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008341s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:34+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001448s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:34+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:47+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005894s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:47+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006302s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:47+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:47+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:47+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:48+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001725s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:48+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004667s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:48+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005292s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:48+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:48+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:49+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:49+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:49+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:49+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:49+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001203s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:49+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000370s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:49+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:50+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:50+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:50+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:50+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:50+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:50+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:50+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:51+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008503s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:51+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:51+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008841s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:51+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:51+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:51+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:51+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:51+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:51+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:51+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:52+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:52+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:52+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:52+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:52+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:53+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:53+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:53+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:53+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:29:53+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:29:53+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:29:53+08:00 ] 127.0.0.1 /images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:Images
+
+[ 2016-05-29T01:30:31+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:30:31+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009485s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:30:31+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002063s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:30:31+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:30:32+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001234s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:30:32+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002840s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:30:32+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001225s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:30:32+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:30:32+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:02+08:00 ] 127.0.0.1 /css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Css
+
+[ 2016-05-29T01:31:02+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007717s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:02+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:02+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:37+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:37+08:00 ] 127.0.0.1 /Application/Public/css%22/style.css%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007879s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:37+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:37+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:38+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:38+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:38+08:00 ] 127.0.0.1 /Application/Public/css%22/style.css%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:38+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:39+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:59+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:59+08:00 ] 127.0.0.1 /Application/Public/css%22/style.css%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:59+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:59+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:31:59+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:35:59+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006983s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:35:59+08:00 ] 127.0.0.1 /style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011974s ]
+ERR: 无法加载模块:Style
+
+[ 2016-05-29T01:35:59+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008181s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:35:59+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:35:59+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:34+08:00 ] 127.0.0.1 /Application/Public/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:34+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:34+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:34+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:36+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:36+08:00 ] 127.0.0.1 /Application/Public/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:36+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008223s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:36+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:36+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:36+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:36+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000271s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:36+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:36+08:00 ] 127.0.0.1 /Application/Public/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019326s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:36:36+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:37:04+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:37:04+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:37:04+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:37:05+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:03+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:03+08:00 ] 127.0.0.1 /style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+ERR: 无法加载模块:Style
+
+[ 2016-05-29T01:40:03+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:03+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:17+08:00 ] 127.0.0.1 /Application/Public/css%22/style.css%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:17+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:17+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:17+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:19+08:00 ] 127.0.0.1 /Application/Public/css%22/style.css%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:19+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:19+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:19+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:19+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001537s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:22+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:22+08:00 ] 127.0.0.1 /Application/Public/css%22/style.css%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:22+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:22+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:40:23+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:41:44+08:00 ] 127.0.0.1 /Application/Public/js%22/jquery-1.6.min.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:41:44+08:00 ] 127.0.0.1 /Application/Public/js%22/index.js%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003676s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:41:44+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:42:06+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:42:18+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T01:42:20+08:00 ] 127.0.0.1 /Application/Public/images%22/menu-all.png%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T11:18:41+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-05-29T11:18:53+08:00 ] 127.0.0.1 /index.phh
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+ERR: 无法加载模块:Index
+
+[ 2016-05-29T11:55:35+08:00 ] 127.0.0.1 /index.php/login/logni
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-29T11:55:39+08:00 ] 127.0.0.1 /index.php/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+ERR: 无法加载模块:Login
+
+[ 2016-05-29T11:56:40+08:00 ] 127.0.0.1 /index.php/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+ERR: 无法加载模块:Index
+
+[ 2016-05-29T14:35:39+08:00 ] 127.0.0.1 /index.php/Application/Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:35:39+08:00 ] 127.0.0.1 /index.php/Application/Public/js/jquery-1.6.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:35:39+08:00 ] 127.0.0.1 /index.php/Application/Public/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:35:39+08:00 ] 127.0.0.1 /index.php/Application/Public/images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:35:49+08:00 ] 127.0.0.1 /index.php/Application/Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:35:49+08:00 ] 127.0.0.1 /index.php/Application/Public/js/jquery-1.6.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:35:49+08:00 ] 127.0.0.1 /index.php/Application/Public/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:35:49+08:00 ] 127.0.0.1 /index.php/Application/Public/images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:37:40+08:00 ] 127.0.0.1 /index.php/Application/Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000082s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:37:40+08:00 ] 127.0.0.1 /index.php/Application/Public/js/jquery-1.6.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:37:40+08:00 ] 127.0.0.1 /index.php/Application/Public/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:37:40+08:00 ] 127.0.0.1 /index.php/Application/Public/images/menu-all.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:46:19+08:00 ] 127.0.0.1 /Application/Public/css%22/style.css%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:46:20+08:00 ] 127.0.0.1 /Application/Public/css%22/style.css%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:46:21+08:00 ] 127.0.0.1 /Application/Public/css%22/style.css%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T14:46:21+08:00 ] 127.0.0.1 /Application/Public/css%22/style.css%22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 无法加载模块:Application
+
+[ 2016-05-29T15:09:30+08:00 ] 127.0.0.1 /test
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+ERR: 无法加载模块:Test
+
+[ 2016-05-29T15:09:38+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-05-29T22:47:47+08:00 ] 127.0.0.1 /index.php/index.php/Home/Role/index.html.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+ERR: 无法加载模块:Index.php
+
+[ 2016-05-29T23:47:14+08:00 ] 127.0.0.1 /index.php/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+ERR: 无法加载模块:Index
+
+[ 2016-05-29T23:53:27+08:00 ] 127.0.0.1 /index.php/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+ERR: 无法加载模块:Index
+
+[ 2016-05-29T23:54:30+08:00 ] 127.0.0.1 /index.php/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+ERR: 无法加载模块:Index
+
+[ 2016-05-29T23:55:54+08:00 ] 127.0.0.1 /index.php/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+ERR: 无法加载模块:Index
+
+[ 2016-05-29T23:56:24+08:00 ] 127.0.0.1 /index.php/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:Index
+
