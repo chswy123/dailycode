@@ -24,7 +24,12 @@ class IndexController extends BaseController {
 	    $this->assign(array(
 	    		'info'=>$res
 	    	));
+	    ob_start();
     	$this->display();
+    	$static = ob_get_contents();
+    	$fp = fopen('./static.html','w');
+    	fwrite($fp,$static);
+    	// var_dump($static);
     }
 
     public function weather(){

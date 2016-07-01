@@ -98,7 +98,9 @@
 	<input type="button" class="btn4" onclick="location='<?php echo U('News/news'); ?>'" value="新闻"> 
 	<input type="button" class="btn4" onclick="location='<?php echo U('Qcode/qcode'); ?>'" value="二维码生成">
 	<input type="button" class="btn4" onclick="location='<?php echo U('Train/train'); ?>'" value="火车列次查询"><br/><br/>
-	<input type="button" class="btn4" onclick="location='<?php echo U('Test/testindex'); ?>'" value="测试"> <br/><br/>
+	<input type="button" class="btn4" onclick="location='<?php echo U('Test/testindex'); ?>'" value="测试">
+	<input type="button" class="btn4" onclick="location='<?php echo U('Wxindex/index'); ?>'" value="微信测试">
+	 <br/><br/>
 	<input type="button" class="btn4" onclick="location='<?php echo U('Option/option'); ?>'" value="系统管理"> 
 
 
