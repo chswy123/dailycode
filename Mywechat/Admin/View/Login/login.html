@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <title>会员注册</title>
+        <link rel="stylesheet" type="text/css" href="__CSS__/public.css"/>
+        <link rel="stylesheet" type="text/css" href="__CSS__/main.css"/>
+    </head>
+    <body style=" background:#E5DED5 url('__IMG__/bg.jpg') no-repeat; background-size: 100%; ">
+        <div id="guide"></div>
+        <!--注册-->
+        <div class="register-wrapper">
+            <header>
+                <h3>会员注册</h3>
+            </header>
+            <article class="register">
+                <section>
+                    <form action="" class="frm-register">
+                        <table>
+                            <tbody>
+                            <tr>
+                                <td class="name"><input type="text" id="username" value="" maxlength="10" placeholder="请输入暗号"/></td>
+                                <td class="phone"><input type="tel" id="phone" value="" maxlength="11" placeholder="请输入手机号码"/></td>
+                                <td class="code">
+                                    <input type="text" id="code" value="" maxlength="6" placeholder=""/>
+                                    <span class="fr" id="getCode">请获取验证码</span>
+                                </td>
+                                <td class="birthday">
+                                    <input type="text" id="birthday" value="" maxlength="15" placeholder="请输入出生日期 如19990909"/></td>
+                                <td class="radio_txt">
+                                    <div class="radiobox">
+                                        <label for="sale" id="sale" data-index="0"><em class="em_default em_hover"><b class="b_hover"></b></em>销售人员</label>
+                                        <label for="user" id="user" data-index="1"><em class="em_default"><b></b></em>用户</label>
+                                    </div>
+                                    <!--<label for="sale"><input type="button" value="" name="type"/>销售人员</label>-->
+                                    <!--<label for="user"><input type="button" value="" name="type"/>用户</label>-->
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </form>
+                    <div class="error-warning hide">
+                        请将信息填写完整
+                    </div>
+                </section>
+            </article>
+            <footer>
+                <button class="btn_ok">确 定</button>
+            </footer>
+        </div>
+
+        <script src="__JS__/jquery.min.js"></script>
+        <script src="__JS__/main.js"></script>
+    </body>
+</html>

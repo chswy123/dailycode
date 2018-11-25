@@ -1,0 +1,129 @@
+@charset "utf-8";
+/* CSS Document */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, input, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    border: 0 none;
+    font-family: 黑体;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    padding: 0;
+   color: #444444;
+		
+}
+*{ -webkit-tap-highlight-color: rgba(0,0,0,0) ;}
+
+.fl{ float:left;}
+.fr{ float:right;} 
+.clear{ clear:both;}
+canvas { 
+-ms-touch-action: double-tap-zoom; 
+}
+ol, ul, li {
+    list-style: none outside none;
+}
+
+body {
+    font: normal 100% Verdana, Geneva, sans-serif;
+}
+a {
+    color: #999998;
+    text-decoration: none;
+    font-size:1em;
+}
+button {
+    cursor: pointer;
+}
+
+*{
+	margin:0;
+	padding:0;
+}
+img{
+	width:100%; display:block;
+	}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #cccccc;  
+}
+
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #cccccc;
+}
+
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+    color: #cccccc;
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+    color: #cccccc;
+}
+
+.clearfix:after {
+	clear: both;
+	content: ".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+	}
+input[type="button"], input[type="submit"], input[type="reset"], input[type="tel"], input[type="text"] {
+-webkit-appearance: none; background:#fff;
+}
+/*input[type="tel"], input[type="text"] {font-size: 14px; }*/
+textarea { -webkit-appearance: none;}
+/***/
+.number{
+	font-family:Arial;
+	}
+.color_1{
+	color:#ff9900;
+	}
+.color_2{
+	color:#f66;
+	}
+.color_3{
+    color:#999999;
+}
+.btn{
+	border-radius:5px;
+	padding:8px 15px;
+	color:#fff;
+	display:inline-block;
+	}
+.buy_type{
+	background:#ff9900;
+	}
+.line_bottom{
+    border-bottom:1px solid #eeeeee;}
+/***/
+.footer .fooer_icon{
+    color: #666;
+    font-size: 24px;
+}
+.footer{
+    background: #fff;
+    border-top: 1px solid #dddddd;
+    width:90%;
+    padding: 8px 5%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+.footer dl{
+    float: left;
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+}
+.footer dl dd{
+    font-size: 12px;
+}
+.footer .select dd,.footer .select dt .fooer_icon{
+    color: #6699cc;
+
+}
