@@ -1,4 +1,5 @@
 <?php
+    echo 8989;die;
 	header('content-type:text/html;charset=utf-8');
 	define('APP_DEBUG',True);
 
