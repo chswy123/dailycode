@@ -13,6 +13,7 @@ class WechatController extends Controller
 
     public function init()
 	{
+	    echo 999;die;
     	//获得参数 signature nonce token timestamp echostr
     	$nonce = $_GET['nonce'];
     	$token = 'weixin';
