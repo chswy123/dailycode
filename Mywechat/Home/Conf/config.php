@@ -5,10 +5,10 @@ return array(
 	// 'TMPL_ENGINE_TYPE'=>'Smarty',
 
 	'DB_TYPE'               =>  'mysql',     // 数据库类型
-    'DB_HOST'               =>  'qdm108294313.my3w.com', // 服务器地址
-    'DB_NAME'               =>  'qdm108294313_db',          // 数据库名
-    'DB_USER'               =>  'qdm108294313',      // 用户名
-    'DB_PWD'                =>  'wy1991529',          // 密码
+    'DB_HOST'               =>  '106.12.20.242', // 服务器地址
+    'DB_NAME'               =>  'test',          // 数据库名
+    'DB_USER'               =>  'wangyue',      // 用户名
+    'DB_PWD'                =>  'chswy1991529',          // 密码
     'DB_PORT'               =>  '3306',        // 端口
     'DB_PREFIX'             =>  'wx_',    // 数据库表前缀
     'DB_PARAMS'          	=>  array(), // 数据库连接参数
