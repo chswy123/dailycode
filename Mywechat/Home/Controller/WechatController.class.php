@@ -20,6 +20,7 @@ class WechatController extends Controller
     	$timestamp = $_GET['timestamp'];
     	$echostr = $_GET['echostr'];
     	$signature = $_GET['signature'];
+		\Think\Log::record($signature);
 
     	//形成数组，然后字典排序
     	$array = array();
