@@ -13,7 +13,6 @@ class WechatController extends Controller
 
 	public function init()
 	{
-	    \Think\Log::write('66666666666666', \Think\Log::DEBUG);
 		//获得参数 signature nonce token timestamp echostr
 		$nonce = $_GET['nonce'];
 		$token = 'weixin';
@@ -29,6 +28,7 @@ class WechatController extends Controller
 		//拼接成字符串，sha1加密，然后与signature进行校验
 		$str = sha1(implode($array));
 
+        \Think\Log::write($str, \Think\Log::DEBUG);
 		if ($str == $signature && $echostr) {
 			//第一次接入weixin api 接口的时候
 			echo $echostr;
