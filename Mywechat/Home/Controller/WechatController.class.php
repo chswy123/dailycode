@@ -43,6 +43,7 @@ class WechatController extends Controller
 	{
 		//接收到微信推送过来的post数据(XML格式)
 		$postArr = $GLOBALS['HTTP_RAW_POST_DATA'];
+        \Think\Log::write('wocao:' . json_encode($postArr), \Think\Log::DEBUG);
 
 		//处理消息类型，并设置回复类型和内容
 		$postObj = simplexml_load_string($postArr);
