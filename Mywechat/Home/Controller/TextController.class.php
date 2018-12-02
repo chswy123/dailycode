@@ -37,7 +37,7 @@ class TextController extends Controller
         }
 
 
-        $template = C('RETURN_WX_TEXT');
+        $template = C('TEMPLATE.RETURN_WX_TEXT');
         $info = sprintf($template,$toUser,$fromUser,$time,$Msgtype,$Content);
         echo $info;
 
