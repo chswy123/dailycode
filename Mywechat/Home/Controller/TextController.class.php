@@ -21,6 +21,7 @@ class TextController extends Controller
 
         $repostConfig = M('Repost_config', 'wx_', 'db');
         $contentRes = $repostConfig->where("key_words = '{$postObj->Content}'")->find();
+        \Think\Log::write('debug:' . json_encode($contentRes));
 
         if ($contentRes) {
             $content = $contentRes['repost_words'];
