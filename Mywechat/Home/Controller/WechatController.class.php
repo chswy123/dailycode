@@ -15,7 +15,7 @@ class WechatController extends Controller
 	{
 		//获得参数 signature nonce token timestamp echostr
 		$nonce = $_GET['nonce'];
-		$token = 'weixin';
+		$token = C('WECHAT_TOKEN');
 		$timestamp = $_GET['timestamp'];
 		$echostr = $_GET['echostr'];
 		$signature = $_GET['signature'];
@@ -28,7 +28,6 @@ class WechatController extends Controller
 		//拼接成字符串，sha1加密，然后与signature进行校验
 		$str = sha1(implode($array));
 
-        \Think\Log::write($str, \Think\Log::DEBUG);
 		if ($str == $signature && $echostr) {
 			//第一次接入weixin api 接口的时候
 			echo $echostr;
@@ -44,17 +43,13 @@ class WechatController extends Controller
 		//接收到微信推送过来的post数据(XML格式)
 //		$postArr = $GLOBALS['HTTP_RAW_POST_DATA'];
 		$postArr = file_get_contents('php://input');
-        \Think\Log::write('wocao:' . json_encode($GLOBALS), \Think\Log::DEBUG);
 
 		//处理消息类型，并设置回复类型和内容
 		$postObj = simplexml_load_string($postArr);
 
-        \Think\Log::write('wocao:' . $postObj->MsgType, \Think\Log::DEBUG);
 		//判断该数据包是否是订阅的事件推送
 		if (strtolower($postObj->MsgType) == 'event') {
 			if (strtolower($postObj->Event) == 'subscribe') {
-				// $IndexModel = new \Home\Model\EventModel;
-				// $IndexModel->dingyEvent($postObj);
 				$IndexModel = A('Event');
 				$IndexModel->dingyEvent($postObj);
 			}
@@ -63,8 +58,6 @@ class WechatController extends Controller
 		//用户发送特定消息服务号自动回复
 		if (strtolower($postObj->MsgType) == 'text') {
 			//回复用户消息
-			// $IndexModel = new \Home\Model\TextModel;
-			// $IndexModel->repostMsg($postObj);
 			$IndexModel = A('Text');
 			$IndexModel->repostMsg($postObj);
 
