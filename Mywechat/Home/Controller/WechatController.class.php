@@ -42,9 +42,8 @@ class WechatController extends Controller
 	public function responseMsg()
 	{
 		//接收到微信推送过来的post数据(XML格式)
-		$postArr = $GLOBALS['HTTP_RAW_POST_DATA'];
-		echo '<pre>';
-		print_r($GLOBALS);die;
+//		$postArr = $GLOBALS['HTTP_RAW_POST_DATA'];
+		$postArr = file_get_contents('php://input');
         \Think\Log::write('wocao:' . json_encode($GLOBALS), \Think\Log::DEBUG);
 
 		//处理消息类型，并设置回复类型和内容
