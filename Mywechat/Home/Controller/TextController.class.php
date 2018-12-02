@@ -19,26 +19,35 @@ class TextController extends Controller
         $time = time();
         $Msgtype = 'text';
 
-        switch (strtolower($postObj->Content))
-        {
-            case 'help':
-                $Content = "1.输入“testweb”可查看我的测试主页；\n2.输入城市可查看天气；\n3.输入如“1+1”及“-，*，/”可进行简单计算:D; \n4.输入'test'可获取最新资讯；";
-                break;
-            case 'admin':
-                $Content = 'http://www.v24php.cn/Mywechat.php/Admin/Login/login';
-                break;
-            case 'news':
-                $news = $this->news($toUser, $fromUser, $time);
-                echo $news;
-                break;
-            default:
-                $Content = '要啥自行车';
-                break;
+        $repostConfig = M('Repost_config', 'wx_', 'db');
+        $contentRes = $repostConfig->where("key_words = '{$postObj->Content}'")->find();
+
+        if ($contentRes) {
+            $content = $contentRes['repost_words'];
+        } else {
+            $content = '不要扯犊子!';
         }
+
+//        switch (strtolower($postObj->Content))
+//        {
+//            case 'help':
+//                $Content = "1.输入“testweb”可查看我的测试主页；\n2.输入城市可查看天气；\n3.输入如“1+1”及“-，*，/”可进行简单计算:D; \n4.输入'test'可获取最新资讯；";
+//                break;
+//            case 'admin':
+//                $Content = 'http://www.v24php.cn/Mywechat.php/Admin/Login/login';
+//                break;
+//            case 'news':
+//                $news = $this->news($toUser, $fromUser, $time);
+//                echo $news;
+//                break;
+//            default:
+//                $Content = '要啥自行车';
+//                break;
+//        }
 
 
         $template = C('TEMPLATE.RETURN_WX_TEXT');
-        $info = sprintf($template,$toUser,$fromUser,$time,$Msgtype,$Content);
+        $info = sprintf($template,$toUser,$fromUser,$time,$Msgtype,$content);
         echo $info;
 
     }
