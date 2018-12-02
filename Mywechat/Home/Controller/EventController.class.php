@@ -17,7 +17,7 @@ class EventController extends Controller
         $fromUser = $postObj->ToUserName;
         $time = time();
         $Msgtype = 'text';
-        $title_model = M('Title');
+        $title_model = M('Title', 'wx_', 'db');
         $title_info = $title_model->where('tag = 1')->find();
         $Content = $title_info['title'];
         // $Content = '哎呦！不错哦！感谢关注！输入“help”可查看帮助菜单:D';
