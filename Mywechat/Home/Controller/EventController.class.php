@@ -21,7 +21,7 @@ class EventController extends Controller
         $title_info = $title_model->where('tag = 1')->find();
         $Content = $title_info['title'];
         // $Content = '哎呦！不错哦！感谢关注！输入“help”可查看帮助菜单:D';
-        $template = C('RETURN_WX_TEXT');
+        $template = C('TEMPLATE.RETURN_WX_TEXT');
         $info   = sprintf($template,$toUser,$fromUser,$time,$Msgtype,$Content);
 
         echo $info;
